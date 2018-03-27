@@ -10,4 +10,4 @@ Update wallpaper from photos in a directory
 
 ### Contributing
 
-This project is open for contribution. [Read this guide](https://bytesclub.github.io/contributing/) to know more abiut contributing to open source projects
+This project is open for contribution. [Read this guide](https://bytesclub.github.io/contributing/) to know more about contributing to open source projects
